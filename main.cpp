@@ -118,7 +118,7 @@ plant.drain();
 //  9)
 //  Noun:       coffee table
 //  action 1:   the coffee table moves left
-coffeTable.moveLeft();
+coffeeTable.moveLeft();
 //  action 2:   the coffee table moves right
 coffeeTable.moveRight();
 //  action 3:   the coffee table rotates clockwise

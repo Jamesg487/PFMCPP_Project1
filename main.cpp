@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       ball
+//  action 1:   the ball rolls
+ball.roll();
+//  action 2:   the ball flys
+ball.fly();
+//  action 3:   the ball falls
+ball.fall();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       stone
+//  action 1:   the stone sinks
+stone.sink();
+//  action 2:   the stone cracks
+stone.crack();
+//  action 3:   the stone moves
+stone.move(); 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       chair
+//  action 1:   the chair breaks
+chair.break();
+//  action 2:   the chair slants
+chair.slant();
+//  action 3:   the chair buckles
+chair.buckle(); 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       vinyl
+//  action 1:   the vinyl plays
+vinyl.play();
+//  action 2:   the vinyl scratches
+vinyl.scratch();
+//  action 3:   the vinyl snaps
+vinyl.snap(); 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       towel
+//  action 1:   the towel drys
+towel.dry();
+//  action 2:   the towel hangs
+towel.hang();
+//  action 3:   the towel covers
+towel.cover(); 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       mirror
+//  action 1:   the mirror shines
+mirror.shine();
+//  action 2:   the mirror smashes
+mirror.smash();
+//  action 3:   the mirror reflects
+mirror.reflect(); 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       paper
+//  action 1:   the paper folds inwards
+paper.foldInward();
+//  action 2:   the paper rips
+paper.rip();
+//  action 3:   the paper tears
+paper.tear(); 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       plant
+//  action 1:   the plant grows upwards
+plant.growUpward();
+//  action 2:   the plant curls
+plant.curl();
+//  action 3:   the plant drains
+plant.drain(); 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       coffee table
+//  action 1:   the coffee table moves left
+coffeeTable.moveLeft();
+//  action 2:   the coffee table moves right
+coffeeTable.moveRight();
+//  action 3:   the coffee table rotates clockwise
+coffeeTable.rotateClockwise(); 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       fire
+//  action 1:   the fire burns
+fire.burns();
+//  action 2:   the fire heats
+fire.heat();
+//  action 3:   the fire cooks
+fire.cook(); 
 
 
 #endif

@@ -104,25 +104,25 @@ mirror.reflect();
 //  action 1:   the paper folds inwards
 paper.foldInward();
 //  action 2:   the paper rips
-pappr.rip();
+paper.rip();
 //  action 3:   the paper tears
 paper.tear(); 
 //  8)
 //  Noun:       plant
 //  action 1:   the plant grows upwards
-plat.growUpward();
+plant.growUpward();
 //  action 2:   the plant curls
 plant.curl();
 //  action 3:   the plant drains
 plant.drain(); 
 //  9)
-//  Noun:       balloon
-//  action 1:   the balloon pops
-balloon.pop();
-//  action 2:   the balloon expands
-balloon.expand();
-//  action 3:   the balloon squeaks
-balloon.squeak(); 
+//  Noun:       coffee table
+//  action 1:   the coffee table moves left
+coffeTable.moveLeft();
+//  action 2:   the coffee table moves right
+coffeeTable.moveRight();
+//  action 3:   the coffee table rotates clockwise
+coffeeTable.rotateClockwise(); 
 //  10)
 //  Noun:       fire
 //  action 1:   the fire burns
